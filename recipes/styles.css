@@ -1,0 +1,20 @@
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: brown;
+    color: white;
+}
+h2{
+    color: brown;
+}
+li{
+    color: rgb(126, 104, 75);
+    font-size: 20px;
+}
+img{
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
